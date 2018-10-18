@@ -5,6 +5,8 @@
 The main file is located at 'backwardChaining.py'.
 Making the file executable with
 > chmod +x backwardChaining.py
+
+
 And then run. 
 The only command line arg is the filename of the problem specification
 > python backwardChaining.py
